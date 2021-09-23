@@ -2,7 +2,7 @@
 body{
     
     text-decoration: none;
-    background-color:#D95F69;
+    background-color:#7D6B7D;
     font-family: 'Hind Siliguri', sans-serif;
     margin-left: auto;
     margin-right: auto;
@@ -14,10 +14,10 @@ body{
     padding-right: 24px;
 }
 li a {
-    color:black;
+    color:#D95F69 ;
     text-decoration: none;
     
 }
 li :hover{
-    color: #7D6B7D;
+    color:#F2E18D ;
 }
